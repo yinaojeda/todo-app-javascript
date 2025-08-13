@@ -19,7 +19,7 @@ A simple **To-Do List** application built with **HTML, CSS, and JavaScript**. Th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yinaojeda/todo-list.git
+   git clone https://github.com/yinaojeda/todo-app-javascript.git
    ```
 2. Open `index.html` in your browser
 
